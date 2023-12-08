@@ -5,10 +5,6 @@
 }
 
 
-html
-{
-	
-}
 body
 {
 	background-color: #201e29;
@@ -21,40 +17,27 @@ body
 	background-size: contain,cover;
 
 	font-family: Red Hat Text;
-
-	
-	
 	display: flex;
 	justify-content: center;
 	align-items: center;
 	flex-direction: column;
-
-	
-	
-
 }
 .block
 {
-	
 	height: 400px;
 	width: 800px;
 	margin-top: 100px;
-	
-
 }
 .block_title
 {
-	
 	display: flex;
 	justify-content: center;
 	align-items: center;
 	margin-top: 20px;
-	
 }
 .block_title_p
 {
 	font-size: 2em;
-	
 	font-weight: 500;
 	color: white;
 	letter-spacing: 5px;
@@ -64,7 +47,6 @@ body
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	
 	margin-top: 80px;
 }
 .carre
@@ -81,7 +63,6 @@ body
 .heure
 {
 	font-size: 5em;
-	
 	font-weight: 800;
 	letter-spacing: -1px;
 	color: #d54f74;
@@ -92,7 +73,6 @@ body
 	justify-content: center;
 	align-content: center;
 	flex-direction: column;
-	
 }
 
 
@@ -105,15 +85,10 @@ body
 	text-align: center;
 	letter-spacing: 3px;
 }
-.attribution
-{
-	
-}
+
 .logo
 {
-	
 	margin-top: 200px;
-
 }
 
 .logo_img
